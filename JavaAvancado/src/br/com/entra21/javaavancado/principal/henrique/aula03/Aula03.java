@@ -2,12 +2,12 @@ package br.com.entra21.javaavancado.principal.henrique.aula03;
 
 import java.time.Duration;
 import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.time.Month;
+import java.time.Period;
+import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
-
-import br.com.entra21.javaavancado.principal.henrique.aula02.collections.list.DateTimeFormatter;
-import br.com.entra21.javaavancado.principal.henrique.aula02.collections.list.LocalDate;
-import br.com.entra21.javaavancado.principal.henrique.aula02.collections.list.LocalTime;
-import br.com.entra21.javaavancado.principal.henrique.aula02.collections.list.Period;
 
 public class Aula03 {
 
